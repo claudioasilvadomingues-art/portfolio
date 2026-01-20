@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background: white ;
+  padding: 20px;
+  background-image: url(/image/portugal2.jpeg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+body>section{
+    opacity: 0.8;
+}
+
+a {
+  color: #6c63ff;
+  text-decoration: none;
+}
+
+select{
+    border: none;
+}
+
+#contenu {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#choix {
+  font-family: Arial;
+  font-size: 24px;
+  margin-left: 20px;
+  background-color:#CBCBCB ;
+}
+
+.beaute {
+  background: #CBCBCB;
+  border-radius: 20px ;
+
+}
+
+.le_petit {
+  background:  #BBBBBB;
+  border-radius: 15px;
+}
+.le_gros {
+  background: #CBCBCB;
+  border-radius: 15px;
+}
+
+
+
+
